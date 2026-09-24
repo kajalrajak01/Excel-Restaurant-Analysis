@@ -20,3 +20,4 @@ An Excel-based restaurant data analysis project focused on data cleaning, data q
 - `Raw Data/` – Original source datasets
 - `Working Data/` – Data preparation and analysis workbooks
 - `Screenshots/` – Project dashboard screenshots
+- `Report/` – Restaurant_Analysis_Report
